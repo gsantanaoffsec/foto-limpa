@@ -1,0 +1,13 @@
+# macOS metadata
+.DS_Store
+._*
+__MACOSX/
+
+# Build output and compiler caches
+.build/
+dist/
+*.app/
+
+# Local editor settings
+.vscode/
+.idea/
